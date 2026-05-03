@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> نار الشوق بتسأل فين هواك
+> في عيوني بسهر أستناك
+> وروحي دايماً بتتمناك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
